@@ -1,0 +1,432 @@
+Source,Target
+Srivatsan Laxman,K. P. Unnikrishnan
+Charles Micchelli,Massimiliano Pontil
+Corinna Cortes,Mehryar Mohri
+Marco Cuturi,Kenji Fukumizu
+Qingqing Huang,Vincent K. N. Lau
+Alex Smola,Justin Bedo
+Nibaran Das,Mahantapas Kundu
+Vikas Hamine,Paul Helman
+Alberto Piatti,Marcus Hutter
+Ilias Diakonikolas,Rocco A. Servedio
+Mark D. Reid,Tiberio Caetano
+Alp Atici,Rocco A. Servedio
+Gilles Meyer,Silvere Bonnabel
+Pierre-Arnaud Coquelin,Rémi Munos
+Irina Nesterenko,Stéphane Rauzy
+Pablo Musé,Andrés Almansa
+Krishnan Suresh,Chiranjib Bhattacharyya
+Krishnan Suresh,Ramesh Hariharan
+Daniel Hsu,Tong Zhang
+Dominique Bouthinon,Henry Soldano
+Hui Xiong,Yanchi Liu
+Christian Gagné,Marc Schoenauer
+Nibaran Das,Dipak Kumar Basu
+Mahantapas Kundu,Mita Nasipuri
+Alina Beygelzimer,Sanjoy Dasgupta
+Pantelis Bouboulis,Sergios Theodoridis
+Lev Reyzin,Robert E. Schapire
+Alexander G. Gray,David V. Anderson
+Maxime Gariel,Ashok N. Srivastava
+Kee Siong Ng,David Silver
+Christian Walder,Lars Kai Hansen
+Catherine Garbay,Vincent Rialle
+Marc Parizeau,Marco Tomassini
+José F. Fontanari,Angelo Cangelosi
+Broňa Brejová,Giltae Song
+Marc Schoenauer,Marc Parizeau
+Farzad Didehvar,Alireza Nowroozi
+Masayuki Karasuyama,Naoyuki Harada
+Y. Ireaneus Anna Rejani,S. Thamarai Selvi
+Nikos Karampatziakis,John Langford
+Nikolaos Vasiloglou,David V. Anderson
+Niranjan Srinivas,Matthias Seeger
+Kamran Karimi,Howard J. Hamilton
+Mariano Tepper,Andrés Almansa
+Marie-Odile Cordier,René Quiniou
+Chunjing Xu,Jianzhuang Liu
+Corinna Cortes,Ashish Rastogi
+Benjamin Labbé,Alain Rakotomamonjy
+Luc De Raedt,Nico Jacobs
+Sham M. Kakade,Matthias Seeger
+Cédric Févotte,Jérôme Idier
+Daniel Hsu,Sham M. Kakade
+Yuan Qi,Thomas P. Minka
+François Denis,Yann Esposito
+Fulufhelo V. Nelwamondo,Tshilidzi Marwala
+Ankit Garg,Krishna Asawa
+Ryan O'Donnell,Rocco A. Servedio
+Juan-Manuel Torres-Moreno,Laurent Bougrain
+Niranjan Srinivas,Sham M. Kakade
+Amaury Habrard,Yann Esposito
+Heidar Mamosian,Mashalla Abbasi Dezfouli
+Luc De Raedt,Bart Demoen
+Hendrik Blockeel,Jan Struyf
+S. V. N. Vishwanathan,Karsten M. Borgwardt
+Alberto Piatti,Marco Zaffalon
+Jon Feldman,Rocco A. Servedio
+Lihong Li,Robert E. Schapire
+Aditya Krishna Menon,Charles Elkan
+Kamalika Chaudhuri,Andrea Vattani
+Lesedi Masisi,Tshilidzi Marwala
+Nathan Srebro,Karthik Sridharan
+Broňa Brejová,Adam Siepel
+Subhadip Basu,Mita Nasipuri
+Andri Mirzal,Masashi Furukawa
+A. Gidudu,T. Marwala
+Michael Riley,Afshin Rostamizadeh
+Yan He,Jing-ping Jiang
+Alina Beygelzimer,Lihong Li
+Manqi Zhao,Venkatesh Saligrama
+Darío García-García,Fernando Díaz-de-María
+Florence Duchene,Vincent Rialle
+Arnaud Ribert,Yves Lecourtier
+John Langford,Lev Reyzin
+Matthew W. Hoffman,Nando de Freitas
+Ran Gilad-Bachrach,Aharon Bar-Hillel
+Unathi Mahola,Tshilidzi Marwala
+Moazzam Islam Tiwana,Zwi Altman
+T. Tony Cai,Guangwu Xu
+Ilia Nouretdinov,Glenn Shafer
+Vinay Jethava,Krishnan Suresh
+Naoyuki Harada,Masashi Sugiyama
+Qiang Li,Yan He
+François Denis,Édouard Gilbert
+Vince D. Calhoun,Terran Lane
+Srivatsan Laxman,Naren Ramakrishnan
+Qiang Li,Jing-ping Jiang
+Corinna Cortes,Afshin Rostamizadeh
+Zhongmou Li,Hui Xiong
+Christian Gagné,Marco Tomassini
+Yann Esposito,Amaury Habrard
+Jacob Abernethy,Jean-Philippe Vert
+Silvere Bonnabel,Rodolphe Sepulchre
+Juan-Manuel Torres-Moreno,Frdéric Alexandre
+Ashok N. Srivastava,Eric Feron
+Andreas Argyriou,Charles Micchelli
+Alexey Chernov,Vladimir Vovk
+Kenneth L. Clarkson,David P. Woodruff
+Ilia Nouretdinov,Akimichi Takemura
+Shai Shalev-Shwartz,Ohad Shamir
+Krishnakumar Balasubramanian,Pinar Donmez
+Ido Ginodi,Amir Globerson
+François Denis,Rémi Gilleron
+Umar Syed,Aleksandrs Slivkins
+Tomáš Vinař,Broňa Brejová
+Tomáš Vinař,Adam Siepel
+Arslan Shaukat,Ke Chen
+Andreas Argyriou,Massimiliano Pontil
+Yuri Kalnishkan,Vladimir Vovk
+Wouter M. Koolen,Tim van Erven
+Claudia Marinica,Fabrice Guillet
+Shiming Deng,Yinyu Ye
+Christos Dimitrakakis,Christian Savu-Krohn
+Vamsi K. Potluru,Sergey M. Plis
+Claudia Marinica,Henri Briand
+Zoltán Prekopcsák,Daniel Lemire
+Punit Pandey,Shishir Kumar
+Leonid Peshkin,Nicolas Meuleau
+M. Tariq Banday,Tariq R. Jan
+Alexander Gammerman,Vladimir Vovk
+Constantinos Panagiotakopoulos,Petroula Tsampouka
+Yuan Qi,Ahmed H. Abdel-Gawad
+Francois Denis,Yann Esposito
+Dominik Janzing,Daniel Herrmann
+Giltae Song,Adam Siepel
+Abdel Ennaji,Yves Lecourtier
+Nicolò Cesa-Bianchi,Shai Shalev-Shwartz
+Christian Walder,Morten Mørup
+Zhihui Hao,Bo Wang
+Baptiste Jeudy,François Rioult
+Karsten M. Borgwardt,Zoubin Ghahramani
+Wongkot Sriurai,Choochart Haruechaiyasak
+David H. Wolpert,Dev G. Rajnarayan
+Hendrik Blockeel,Luc De Raedt
+Alina Beygelzimer,John Langford
+Corinna Cortes,Michael Riley
+T. Tony Cai,Jun Zhang
+Vlad M. Cora,Nando de Freitas
+Amaury Habrard,Francois Denis
+Karsten Borgwardt,Justin Bedo
+Amit Singer,Mihai Cucuringu
+Victorin Martin,Cyril Furtlehner
+Ankan Saha,S. V. N. Vishwanathan
+H. Brendan McMahan,Matthew Streeter
+Qinfeng Shi,Mark D. Reid
+Leonid Peshkin,Leslie Kaelbling
+Ohad Shamir,Karthik Sridharan
+Fedor Zhdanov,Vladimir Vovk
+Eric Brochu,Vlad M. Cora
+Sriharsha Veeramachaneni,Ravikumar Kondadadi
+Alberto Piatti,Fabio Trojani
+Koji Tsuda,Kiyoshi Asai
+Zhihui Hao,Nick Barnes
+Jun Liu,Jieping Ye
+Shai Shalev-Shwartz,Karthik Sridharan
+Laurent Bougrain,Frdéric Alexandre
+Chun-Wei Seah,Yew-Soon Ong
+Darío García-García,Emilio Parrado-Hernández
+Hendrik Blockeel,Jan Ramon
+John Langford,Tong Zhang
+Mahantapas Kundu,Dipak Kumar Basu
+Adam R. Klivans,Rocco A. Servedio
+Sanjoy Dasgupta,John Langford
+Vladislav Malyshkin,Andrey Gorodetsky
+Joshua V Dillon,Guy Lebanon
+Karthik Sridharan,Ambuj Tewari
+Marco Zaffalon,Fabio Trojani
+Hal Daumé III,Daniel Marcu
+Koji Tsuda,Shotaro Akaho
+Xinhua Zhang,Ankan Saha
+Vladimir Vovk,Glenn Shafer
+Dmitry Pechyony,Ashish Rastogi
+Andreas Krause,Matthias Seeger
+Ankit Garg,Rahul Dwivedi
+B. Abe,T. Marwala
+Alexey Chernov,Fedor Zhdanov
+Daniil Ryabko,Marcus Hutter
+Juan-Manuel Torres-Moreno,Mirta B. Gordon
+Laurent Jacob,Francis Bach
+Jérôme Azé,Yves Kodratoff
+Elad Hazan,David P. Woodruff
+Francis Bach,Julien Mairal
+Sanjoy Dasgupta,Andrea Vattani
+Varun Kanade,Leslie G. Valiant
+Le Song,Alex Smola
+Ran Gilad-Bachrach,Liat Ein-Dor
+Yuri Kalnishkan,Fedor Zhdanov
+Mohammadreza Abolghasemi-Dahaghani,Farzad Didehvar
+John Langford,Robert E. Schapire
+Satyaki Mahalanabis,Daniel Stefankovic
+Maayan Harel,Shie Mannor
+Raffi Sevlian,Ram Rajagopal
+Alina Beygelzimer,Lev Reyzin
+Deepshikha Pandey,Shishir Kumar
+Nathan Srebro,Ambuj Tewari
+A. Gidudu,B. Abe
+Fabio Trojani,Marcus Hutter
+Vladimir Vovk,Fedor Zhdanov
+Laurent Jacob,Jean-Philippe Vert
+Vukosi Marivate,Tshilidzi Marwala
+Ivor W. Tsang,Yew-Soon Ong
+Ying Cui,Vincent K. N. Lau
+Kenneth L. Clarkson,Elad Hazan
+Andreas Krause,Sham M. Kakade
+Chunhua Shen,Bo Wang
+Vladimir Vovk,Akimichi Takemura
+Zhongmou Li,Yanchi Liu
+Jérôme Azé,Michèle Sebag
+Alina Beygelzimer,Daniel Hsu
+Sergey M. Plis,Terran Lane
+Nick Palmer,Paul W. Goldberg
+Subhadip Basu,Mahantapas Kundu
+Masayuki Karasuyama,Ichiro Takeuchi
+Vamsi K. Potluru,Terran Lane
+Paramveer S. Dhillon,Lyle Ungar
+Vinay Jethava,Chiranjib Bhattacharyya
+Vinay Jethava,Ramesh Hariharan
+S. Kannan,R. Bhaskaran
+Guy Lebanon,Paul Kidwell
+Jan Arpe,Elchanan Mossel
+Marie-Odile Cordier,Elisa Fromont
+Srivatsan Laxman,P. S. Sastry
+Subhadip Basu,Dipak Kumar Basu
+Mariano Tepper,Pablo Musé
+Huan Xu,Shie Mannor
+Naresh Manwani,P. S. Sastry
+Akimichi Takemura,Glenn Shafer
+Jacob Abernethy,Francis Bach
+Benjamin I. P. Rubinstein,Aleksandr Simma
+Florence Duchene,Catherine Garbay
+François Denis,Amaury Habrard
+Leslie G. Valiant,Jennifer Wortman Vaughan
+Mohammadreza Abolghasemi-Dahaghani,Alireza Nowroozi
+Hendrik Blockeel,Nico Jacobs
+Chunhua Shen,Nick Barnes
+Dominique Bouthinon,Véronique Ventos
+Guoshen Yu,Guillermo Sapiro
+Nicolas Meuleau,Leslie Kaelbling
+Istvan Szita,Andras Lorincz
+Dean Foster,Lyle Ungar
+Mingxuan Sun,Guy Lebanon
+Nicholas Mastronarde,Mihaela van der Schaar
+Ricardo Henao,Lars Kai Hansen
+Zhihui Hao,Chunhua Shen
+Mehryar Mohri,Dmitry Pechyony
+Daniel Golovin,Andreas Krause
+Vladislav Malyshkin,Ray Bakhramov
+Ram Sarkar,Mita Nasipuri
+Imre Risi Kondor,Nicol N. Schraudolph
+Samarjeet Borah,Mrinal Kanti Ghose
+Berna Sayrac,Zwi Altman
+Karsten M. Borgwardt,Imre Risi Kondor
+Jacob Abernethy,Theodoros Evgeniou
+Fedor Zhdanov,Alexey Chernov
+Lesedi Masisi,Fulufhelo V. Nelwamondo
+Aharon Bar-Hillel,Liat Ein-Dor
+Le Song,Arthur Gretton
+Nader H. Bshouty,Hanna Mazzawi
+Guangwu Xu,Jun Zhang
+Maxime Gariel,Eric Feron
+Joshua V Dillon,Krishnakumar Balasubramanian
+Vincent K. N. Lau,Ying Cui
+Paat Rusmevichientong,John N. Tsitsiklis
+Flavien Léger,Guillermo Sapiro
+Morten Mørup,Lars Kai Hansen
+Niranjan Srinivas,Andreas Krause
+Unathi Mahola,Fulufhelo V. Nelwamondo
+M. Babu Reddy,L. S. S. Reddy
+Ruslan Salakhutdinov,Nathan Srebro
+Sergey M. Plis,Morten Morup
+Sergey M. Plis,Vince D. Calhoun
+Chiranjib Bhattacharyya,Ramesh Hariharan
+Phayung Meesad,Choochart Haruechaiyasak
+Alexey Chernov,Yuri Kalnishkan
+Francis Bach,Jean-Philippe Vert
+Jean-Marc Lasgouttes,Cyril Furtlehner
+Vamsi K. Potluru,Morten Morup
+Vamsi K. Potluru,Vince D. Calhoun
+Aleksandrs Slivkins,Nina Mishra
+Alex Smola,Arthur Gretton
+Daniel Golovin,Matthew Faulkner
+Jérôme Azé,Mathieu Roche
+S. V. N. Vishwanathan,Imre Risi Kondor
+Wongkot Sriurai,Phayung Meesad
+Shotaro Akaho,Kiyoshi Asai
+Arthur Gretton,Karsten Borgwardt
+Rémi Flamary,Alain Rakotomamonjy
+Basel Shadid,P. S. Sastry
+Luc De Raedt,Jan Ramon
+Francis Bach,Jean Ponce
+Julien Mairal,Jean Ponce
+Erik Boczko,Todd Young
+Karsten M. Borgwardt,Nicol N. Schraudolph
+Alina Beygelzimer,Tong Zhang
+Joel Veness,Marcus Hutter
+Rui Wang,Vincent K. N. Lau
+Flavien Léger,Guoshen Yu
+Mehryar Mohri,Ashish Rastogi
+Henryk Gzyl,Enrique ter Horst
+Nikolaos Vasiloglou,Alexander G. Gray
+Yves Kodratoff,Michèle Sebag
+Manuel Loth,Philippe Preux
+Qinfeng Shi,Tiberio Caetano
+Christian Gagné,Marc Parizeau
+Ram Sarkar,Nibaran Das
+Paramveer S. Dhillon,Dean Foster
+Arvind Agarwal,Hal Daume III
+Victorin Martin,Jean-Marc Lasgouttes
+Amaury Habrard,Marc Tommasi
+Nibaran Das,Mita Nasipuri
+Henry Soldano,Véronique Ventos
+Naoyuki Harada,Ichiro Takeuchi
+Yuan Qi,Feng Yan
+Morten Morup,Terran Lane
+Rémi Gilleron,Marc Tommasi
+Alina Beygelzimer,Robert E. Schapire
+Daniel Hsu,John Langford
+S. V. N. Vishwanathan,Nicol N. Schraudolph
+Elisa Fromont,René Quiniou
+Ram Sarkar,Subhadip Basu
+Ilias Diakonikolas,Ryan O'Donnell
+Jan Poland,Marcus Hutter
+Zizhuo Wang,Yinyu Ye
+Toshinao Akuzawa,Noboru Murata
+Fedor Zhdanov,Yuri Kalnishkan
+Zizhuo Wang,Shiming Deng
+Christian Walder,Ricardo Henao
+Wei Gao,Zhi-Hua Zhou
+Nico Jacobs,Bart Demoen
+Theodoros Evgeniou,Jean-Philippe Vert
+Marco Zaffalon,Marcus Hutter
+Sham M. Kakade,John Langford
+Vladimir Vovk,Ilia Nouretdinov
+Krishnakumar Balasubramanian,Guy Lebanon
+Ilias Diakonikolas,Yi Wu
+Sham M. Kakade,Tong Zhang
+Arthur Gretton,Justin Bedo
+Debprakash Patnaik,Naren Ramakrishnan
+Mehryar Mohri,Afshin Rostamizadeh
+Heidar Mamosian,Amir Masoud Rahmani
+Ricardo Henao,Morten Mørup
+Emmanuel Monfrini,Yann Guermeur
+Andrew Guillory,Jeff Bilmes
+Punit Pandey,Deepshikha Pandey
+Marc Tommasi,Édouard Gilbert
+Srivatsan Laxman,Basel Shadid
+Fabrice Guillet,Henri Briand
+Gilles Meyer,Rodolphe Sepulchre
+Amnon Shashua,Gabi Pragier
+M. Ramaswami,R. Bhaskaran
+Kamalika Chaudhuri,Sanjoy Dasgupta
+Wei Wang,Zhi-Hua Zhou
+Basel Shadid,K. P. Unnikrishnan
+Moazzam Islam Tiwana,Berna Sayrac
+Le Song,Karsten Borgwardt
+Tomáš Vinař,Giltae Song
+Jon Feldman,Ryan O'Donnell
+Kee Siong Ng,Marcus Hutter
+Hirotaka Niitsuma,Takashi Okada
+Mathieu Roche,Yves Kodratoff
+Morten Morup,Vince D. Calhoun
+Nibaran Das,Subhadip Basu
+Joel Veness,David Silver
+Ming-Chang Lee,Chang To
+Nicolò Cesa-Bianchi,Ohad Shamir
+Hendrik Blockeel,Bart Demoen
+Ryan O'Donnell,Yi Wu
+Ram Sarkar,Mahantapas Kundu
+Ray Bakhramov,Andrey Gorodetsky
+Marcus Hutter,Minh-Ngoc Tran
+Lihong Li,Lev Reyzin
+Alex Smola,Karsten Borgwardt
+Mathieu Roche,Michèle Sebag
+Emilio Parrado-Hernández,Fernando Díaz-de-María
+John Langford,Lihong Li
+Mehryar Mohri,Michael Riley
+Rahul Dwivedi,Krishna Asawa
+Georgiana Ifrim,Carsten Wiuf
+Rocco A. Servedio,Yi Wu
+Rui Wang,Ying Cui
+Ram Sarkar,Dipak Kumar Basu
+Nick Barnes,Bo Wang
+Mithun Das Gupta,Thomas S. Huang
+Chunjing Xu,Xiaoou Tang
+Raphael Pelossof,Zhiliang Ying
+Amaury Habrard,Édouard Gilbert
+Foster Provost,Tom Fawcett
+Marc Schoenauer,Marco Tomassini
+Mita Nasipuri,Dipak Kumar Basu
+Rémi Gilleron,Édouard Gilbert
+Abdel Ennaji,Arnaud Ribert
+James Petterson,Tiberio Caetano
+Sung-eok Jeon,Chuanyi Ji
+Andrew DiLullo,Todd Young
+Masashi Sugiyama,Ichiro Takeuchi
+Ying Cui,Qingqing Huang
+Chun-Wei Seah,Ivor W. Tsang
+Hafeez Ullah Amin,Abdur Rashid Khan
+Yu-Feng Li,Zhi-Hua Zhou
+Rémi Flamary,Benjamin Labbé
+Xinhua Zhang,S. V. N. Vishwanathan
+Umar Syed,Nina Mishra
+Amaury Habrard,Rémi Gilleron
+Debprakash Patnaik,Srivatsan Laxman
+Amir Masoud Rahmani,Mashalla Abbasi Dezfouli
+Matthew Faulkner,Andreas Krause
+Erik Boczko,Andrew DiLullo
+Eric Brochu,Nando de Freitas
+Masayuki Karasuyama,Masashi Sugiyama
+Joel Veness,Kee Siong Ng
+Marcus Hutter,David Silver
+Francis Bach,Theodoros Evgeniou
+Pinar Donmez,Guy Lebanon
+Le Song,Justin Bedo
+Varun Kanade,Jennifer Wortman Vaughan
+P. S. Sastry,K. P. Unnikrishnan
+Mingxuan Sun,Paul Kidwell
+Ahmed H. Abdel-Gawad,Thomas P. Minka
+Eric Brochu,Matthew W. Hoffman
+Corinna Cortes,Dmitry Pechyony
+Jianzhuang Liu,Xiaoou Tang
+François Denis,Marc Tommasi
